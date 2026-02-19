@@ -1,2 +1,2 @@
-# why-culture-apparel-site
+# why-culture-apparel
 This is my clothes apparel website
